@@ -2,6 +2,7 @@ LevelDB qdb branch
 ==================
 
 Current version: 1.18
+[![Build status](https://ci.appveyor.com/api/projects/status/t6g50exxq2ik5soh?svg=true)](https://ci.appveyor.com/project/KidFashion/leveldb)
 
 quasardb [LevelDB](http://code.google.com/p/leveldb/) branch with full Windows support. This is not an official LevelDB branch, but the branch we use in our product, [quasardb](https://www.quasardb.net/).
 
